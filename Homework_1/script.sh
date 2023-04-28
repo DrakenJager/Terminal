@@ -9,4 +9,3 @@ cd ..
 mv dir_1/{name_1.txt,name_2.txt} dir_2
 
 exec $SHELL
-
